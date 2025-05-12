@@ -1,0 +1,5 @@
+numpy
+matplotlib
+scipy
+latexmk
+texlive-full
